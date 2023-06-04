@@ -1,7 +1,7 @@
 # Online-Store
 #Github push
-git config --global user.email "getnetmulat11@gmail.com"
-git config --global user.name "Getnetmulat"
+git config --global user.email "your github email address"
+git config --global user.name "your github username"
 git add .
 git commit -m "first commit"
 git branch -M main
