@@ -1,4 +1,4 @@
-# Online-Store
+# OnlineShoping
 #Github push
 git config --global user.email "your github email address"
 git config --global user.name "your github username"
